@@ -10,7 +10,6 @@ JELASKAN PROSES PASSING DATA DARI FORM MENUJU TAMPILAN DENGAN FILE `README.md`
 
 Buat tampilan semenarik mungkin untuk dilihat.
 
-
 Nama : ___
 
 NIM : ___
